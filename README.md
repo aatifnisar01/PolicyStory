@@ -7,3 +7,6 @@ https://neural-times.vercel.app/
 
 ## Data:
 All the stories, data from intermediate steps, and newspaper articles can be found here: https://drive.google.com/drive/folders/1Td2wiEq8Cur2dqpzo36cQLOQs_f3FvHJ?usp=sharing
+
+## Paper: 
+Coming Soon!!!
